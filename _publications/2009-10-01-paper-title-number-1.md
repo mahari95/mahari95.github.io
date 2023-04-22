@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Content Analysis of North Korean Research Journal Data: a New Way of Writing Histories on Balhae Research Undertaken in North Korea"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper presents the results of qualitative and quantitative content analysis undertaken on the titles of articles on Balhae published in six North Korean research journals. Descriptive statistical analysis and Semantic Network Analysis were used.'
 date: 2009-10-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002653037'
+citation: 'Ko, I. (2020). &quot;북한의 발해 연구사 서술을 위한 새로운 접근 — 북한 학술지 목록화 사업 결과물을 활용한 내용분석(Content Analysis of North Korean Research Journal Data: a New Way of Writing Histories on Balhae Research Undertaken in North Korea)&quot; <i>Journal of Humanities (인문논총)/i>. 77(4).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper presents the results of qualitative and quantitative content analysis undertaken on the titles of articles on Balhae published in six North Korean research journals. Descriptive statistical analysis and Semantic Network Analysis were used.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002653037)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Ko, I. (2020). "Content Analysis of North Korean Research Journal Data: a New Way of Writing Histories on Balhae Research Undertaken in North Korea" <i>Journalof Humanities</i>. 77(4): 193-237. (In Korean) 고일홍, 2020, 북한의 발해 연구사 서술을 위한 새로운 접근 — 북한 학술지 목록화 사업 결과물을 활용한 내용분석. 인문논총 77(4): 193-237.
